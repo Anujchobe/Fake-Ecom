@@ -122,15 +122,11 @@ footer p {
   background-color: white;
   color: black;
 }
-.product-details {
-  display: flex;
-  gap: 20px;
-}
-
-.product-image {
-  width: 50%;
+.product-details .product-image {
+  width: 30%;
   object-fit: cover;
 }
+
 
 .product-info {
   flex: 1;
