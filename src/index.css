@@ -126,11 +126,11 @@ footer p {
   display: flex;
   gap: 20px;
 }
+
 .product-image {
   width: 30%;
   object-fit: cover;
 }
-
 
 .product-info {
   flex: 1;
@@ -142,4 +142,7 @@ footer p {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-
+.product-price {
+  font-size: 1.2em;
+  font-weight: bold;
+}
