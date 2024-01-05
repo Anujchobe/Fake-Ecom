@@ -138,8 +138,4 @@ footer p {
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.product-image {
-  width: 100%;
-  height: auto;
-  object-fit: cover;
-}
+
