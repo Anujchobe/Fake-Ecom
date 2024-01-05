@@ -19,7 +19,7 @@ const SingleProduct = () => {
       <div className="product-info">
         <h2>{product.title}</h2>
         <p>{product.description}</p>
-        <p>{product.price}</p>
+        <p className="product-price">₹{product.price}</p>
       </div>
     </div>
   );
